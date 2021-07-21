@@ -1,5 +1,12 @@
 body {
-    background-color: #AFA7E5;
+    background-color: #AAA0EC;
     overflow-x: hidden;
     text-align: center;
+    font-family: 'Roboto Mono', monospace;
+    font-size: 16px;
+    color: #302F52
+  }
+
+  #links {
+      font-size: 13px;
   }
